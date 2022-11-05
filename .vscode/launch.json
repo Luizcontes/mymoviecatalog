@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MovieCatalogServiceApplication<movie-catalog-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "contes.moviecatalogservice.MovieCatalogServiceApplication",
+            "projectName": "movie-catalog-service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
